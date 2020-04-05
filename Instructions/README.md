@@ -1,5 +1,14 @@
 # D3 Homework - Data Journalism and D3
 
+____________________________________________________________________________________________
+
+RSL Notes -----
+
+Code is locate the d3_data_journalism folder.
+
+Only completed the required activity.
+____________________________________________________________________________________________
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
